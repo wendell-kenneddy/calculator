@@ -1,4 +1,4 @@
-// The goal is to create a factory function that returns a calculator.
+// The goal is to create a constructor function that returns a calculator.
 
 function Calculator() {
   this.operation = document.getElementById('operation');
